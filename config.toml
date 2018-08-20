@@ -1,7 +1,7 @@
 baseurl = "https://laycnc.github.io"
 #DefaultContentLanguage = "en"
 DefaultContentLanguage = "ja"
-title = "DeepFallBlog"
+title = "laycnc Blog"
 theme = "beautifulhugo"
 metaDataFormat = "yaml"
 pygmentsStyle = "trac"
